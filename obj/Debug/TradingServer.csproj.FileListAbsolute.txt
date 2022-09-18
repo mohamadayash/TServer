@@ -1,0 +1,7 @@
+C:\Users\Mohamad Ayash\source\repos\TradingServer\TradingServer\bin\Debug\TradingServer.exe.config
+C:\Users\Mohamad Ayash\source\repos\TradingServer\TradingServer\bin\Debug\TradingServer.exe
+C:\Users\Mohamad Ayash\source\repos\TradingServer\TradingServer\bin\Debug\TradingServer.pdb
+C:\Users\Mohamad Ayash\source\repos\TradingServer\TradingServer\obj\Debug\TradingServer.csprojAssemblyReference.cache
+C:\Users\Mohamad Ayash\source\repos\TradingServer\TradingServer\obj\Debug\TradingServer.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad Ayash\source\repos\TradingServer\TradingServer\obj\Debug\TradingServer.exe
+C:\Users\Mohamad Ayash\source\repos\TradingServer\TradingServer\obj\Debug\TradingServer.pdb
